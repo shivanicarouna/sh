@@ -18,6 +18,6 @@ printf("zero");
 }
   else
   {
-    printf("invalide");
+    printf("invalid");
 }
 }
