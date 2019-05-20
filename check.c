@@ -8,12 +8,12 @@ if(n%2==0)
 {
 printf("even");
 }
-else if(n%2!=0)
+else if(n<=0)
 {
-printf("odd");
+printf("invalid");
 }
 else
 {
-printf("invalid");
+printf("odd");
 }
 }
