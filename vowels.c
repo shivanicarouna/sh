@@ -11,11 +11,11 @@ scanf("%c",&n);
   
 else if((n=='a') ||(n=='e')||(n=='i')|| (n=='o') || (n=='u'))
 {
-printf("vowel");
+printf("Vowel");
 }
 else
 {
-  printf("consonant");
+  printf("Consonant");
 }
 }
 
