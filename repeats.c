@@ -2,7 +2,7 @@
 void main()
 {
 int d,i;
- char str[]="hello";
+ char str[]="Hello";
 scanf("%d", &d);
 for(i=1;i<=d;i++)
 {
