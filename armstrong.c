@@ -2,6 +2,7 @@
 void main()
 {
 int n,r,count=0,sum=0,j,q,b,o;
+  n=n<100000;
 scanf("%d",&n);
 j=n;
 q=n;
