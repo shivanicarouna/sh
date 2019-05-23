@@ -12,5 +12,5 @@ for(i=0;i<k;i++)
     p=p+a[i];
     
 }
-printf("%d",sum);
+printf("%d",p);
 }
